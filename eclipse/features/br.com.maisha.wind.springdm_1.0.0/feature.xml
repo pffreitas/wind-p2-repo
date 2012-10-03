@@ -16,6 +16,14 @@
       [Enter License Description here.]
    </license>
 
+	<plugin
+         id="org.junit"
+         download-size="0"
+         install-size="0"
+         version="4.8.2.v4_8_2_v20110321-1705"
+         unpack="false"/>
+
+
    <plugin
          id="com.springsource.org.aopalliance"
          download-size="0"
