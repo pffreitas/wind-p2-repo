@@ -6,129 +6,128 @@
 <location path="${project_loc}/eclipse/plugins" type="Directory"/>
 </locations>
 <includeBundles>
-<plugin id="org.eclipse.core.commands"/>
-<plugin id="org.eclipse.equinox.http.registry"/>
-<plugin id="org.junit" version="4.8.2.v4_8_2_v20110321-1705"/>
-<plugin id="org.eclipse.core.contenttype"/>
-<plugin id="org.eclipse.rap.demo.source"/>
-<plugin id="org.eclipse.equinox.http.servlet.source"/>
-<plugin id="org.eclipse.rap.demo"/>
-<plugin id="org.eclipse.equinox.http.jetty"/>
-<plugin id="org.springframework.osgi.extensions.annotations"/>
-<plugin id="org.eclipse.core.commands.source"/>
-<plugin id="org.mortbay.jetty.server.source"/>
-<plugin id="org.eclipse.osgi.services"/>
-<plugin id="org.eclipse.equinox.servletbridge.extensionbundle"/>
-<plugin id="com.ibm.icu.base"/>
-<plugin id="com.springsource.slf4j.api" version="1.6.1"/>
-<plugin id="org.hsqldb.hsqldb"/>
-<plugin id="org.springframework.osgi.mock"/>
-<plugin id="org.springframework.beans" version="3.1.2.RELEASE"/>
-<plugin id="org.apache.log4j"/>
 <plugin id="org.eclipse.core.databinding.source"/>
-<plugin id="org.eclipse.equinox.http.servlet"/>
-<plugin id="com.springsource.javax.persistence"/>
-<plugin id="org.eclipse.equinox.http.servletbridge"/>
-<plugin id="org.vaadin.osgi"/>
-<plugin id="com.springsource.slf4j.jcl"/>
-<plugin id="org.eclipse.equinox.preferences.source"/>
-<plugin id="org.eclipse.jdt.junit.runtime.source"/>
-<plugin id="com.springsource.javax.annotation"/>
-<plugin id="org.springframework.context" version="3.1.2.RELEASE"/>
-<plugin id="org.eclipse.core.runtime"/>
-<plugin id="org.eclipse.rap.ui.views"/>
-<plugin id="org.eclipse.rap.design.example.source"/>
-<plugin id="org.springframework.asm"/>
-<plugin id="org.eclipse.core.expressions"/>
-<plugin id="groovy-all"/>
-<plugin id="org.springframework.osgi.core"/>
-<plugin id="org.eclipse.rap.ui.forms.source"/>
-<plugin id="org.mortbay.jetty.util"/>
-<plugin id="com.springsource.org.apache.commons.collections"/>
-<plugin id="org.eclipse.rap.rwt.theme.classic.source"/>
-<plugin id="org.eclipse.core.databinding.property.source"/>
-<plugin id="org.eclipse.equinox.preferences"/>
-<plugin id="org.eclipse.help.source"/>
-<plugin id="org.eclipse.equinox.http.jetty.source"/>
-<plugin id="org.eclipse.rap.junit.runtime"/>
-<plugin id="com.vaadin"/>
-<plugin id="org.eclipse.equinox.app.source"/>
-<plugin id="org.eclipse.rap.rwt.theme.classic"/>
-<plugin id="org.eclipse.rap.design.example"/>
-<plugin id="org.eclipse.rap.ui.workbench.source"/>
-<plugin id="org.springframework.instrument"/>
 <plugin id="org.eclipse.rap.ui.views.source"/>
-<plugin id="org.springframework.osgi.test"/>
-<plugin id="org.eclipse.rap.rwt.source"/>
-<plugin id="org.mortbay.jetty.server"/>
-<plugin id="org.springframework.context.support" version="3.1.2.RELEASE"/>
-<plugin id="org.eclipse.core.jobs"/>
-<plugin id="org.eclipse.rap.ui.forms"/>
-<plugin id="com.ibm.icu.base.source"/>
-<plugin id="org.eclipse.core.databinding.observable"/>
-<plugin id="org.eclipse.rap.rwt"/>
-<plugin id="org.eclipse.rap.jface.databinding.source"/>
-<plugin id="org.eclipse.core.jobs.source"/>
-<plugin id="org.eclipse.rap.demo.databinding.source"/>
-<plugin id="com.springsource.org.apache.commons.beanutils"/>
-<plugin id="com.springsource.junit"/>
-<plugin id="org.junit.source"/>
-<plugin id="javax.servlet"/>
-<plugin id="javax.servlet.source"/>
-<plugin id="org.eclipse.jdt.junit.runtime"/>
-<plugin id="org.eclipse.equinox.registry.source"/>
-<plugin id="org.eclipse.core.expressions.source"/>
-<plugin id="org.mortbay.jetty.util.source"/>
-<plugin id="org.eclipse.rap.ui.source"/>
-<plugin id="com.springsource.org.apache.commons.logging"/>
-<plugin id="org.springframework.osgi.io"/>
-<plugin id="org.springframework.aspects"/>
-<plugin id="org.eclipse.core.runtime.source"/>
-<plugin id="org.eclipse.equinox.registry"/>
-<plugin id="org.eclipse.rap.ui"/>
-<plugin id="org.eclipse.rap.junit"/>
 <plugin id="com.springsource.org.objectweb.asm"/>
-<plugin id="org.springframework.test" version="3.1.2.RELEASE"/>
-<plugin id="org.eclipse.help"/>
-<plugin id="org.springframework.core" version="3.1.2.RELEASE"/>
-<plugin id="org.eclipse.core.contenttype.source"/>
-<plugin id="org.springframework.osgi.log4j.osgi"/>
-<plugin id="org.eclipse.core.databinding.beans"/>
-<plugin id="org.eclipse.core.databinding.beans.source"/>
-<plugin id="org.eclipse.osgi.source"/>
 <plugin id="org.eclipse.osgi.services.source"/>
-<plugin id="org.eclipse.equinox.http.registry.source"/>
-<plugin id="org.eclipse.equinox.common"/>
-<plugin id="org.eclipse.equinox.common.source"/>
-<plugin id="org.eclipse.core.databinding.property"/>
-<plugin id="com.springsource.javassist"/>
-<plugin id="org.junit" version="3.8.2.v3_8_2_v20100427-1100"/>
-<plugin id="org.eclipse.equinox.app"/>
-<plugin id="com.springsource.org.apache.commons.digester"/>
-<plugin id="org.eclipse.rap.ui.workbench"/>
-<plugin id="com.springsource.slf4j.log4j"/>
-<plugin id="org.eclipse.rap.junit.source"/>
-<plugin id="org.springframework.osgi.extender"/>
-<plugin id="org.eclipse.equinox.servletbridge"/>
-<plugin id="org.eclipse.rap.demo.databinding"/>
-<plugin id="org.springframework.transaction" version="3.1.2.RELEASE"/>
-<plugin id="org.eclipse.rap.jface.source"/>
-<plugin id="org.springframework.expression"/>
+<plugin id="org.eclipse.rap.design.example.source"/>
+<plugin id="org.eclipse.rap.ui.forms"/>
+<plugin id="org.hsqldb.hsqldb"/>
+<plugin id="com.springsource.org.apache.commons.logging"/>
+<plugin id="javax.servlet"/>
+<plugin id="com.springsource.javax.annotation"/>
+<plugin id="org.eclipse.osgi.source"/>
 <plugin id="org.eclipse.rap.ui.cheatsheets"/>
-<plugin id="org.eclipse.rap.junit.runtime.source"/>
-<plugin id="org.springframework.jdbc" version="3.1.2.RELEASE"/>
+<plugin id="org.eclipse.core.databinding.beans"/>
+<plugin id="org.eclipse.rap.jface.databinding"/>
+<plugin id="org.eclipse.core.jobs.source"/>
+<plugin id="org.eclipse.rap.ui.source"/>
+<plugin id="org.eclipse.equinox.http.jetty.source"/>
+<plugin id="org.springframework.expression"/>
+<plugin id="com.springsource.org.apache.commons.digester"/>
+<plugin id="org.eclipse.rap.junit.source"/>
+<plugin id="org.springframework.osgi.io"/>
+<plugin id="org.springframework.osgi.extensions.annotations"/>
+<plugin id="org.vaadin.osgi"/>
+<plugin id="org.eclipse.rap.jface"/>
+<plugin id="com.springsource.org.aopalliance"/>
+<plugin id="org.eclipse.core.databinding"/>
+<plugin id="org.eclipse.rap.ui.cheatsheets.source"/>
+<plugin id="org.eclipse.equinox.http.servlet"/>
+<plugin id="com.springsource.junit"/>
+<plugin id="com.springsource.org.apache.commons.lang"/>
+<plugin id="org.junit.source"/>
+<plugin id="org.mortbay.jetty.server.source"/>
+<plugin id="org.springframework.aop" version="3.1.2.RELEASE"/>
+<plugin id="org.eclipse.rap.ui.views"/>
+<plugin id="org.eclipse.equinox.http.servlet.source"/>
+<plugin id="groovy-all"/>
+<plugin id="org.eclipse.rap.demo.databinding.source"/>
+<plugin id="org.springframework.transaction" version="3.1.2.RELEASE"/>
+<plugin id="org.eclipse.equinox.http.registry"/>
+<plugin id="org.eclipse.core.commands"/>
+<plugin id="com.ibm.icu.base.source"/>
+<plugin id="org.eclipse.equinox.registry.source"/>
+<plugin id="org.eclipse.rap.rwt.theme.classic"/>
+<plugin id="org.springframework.orm" version="3.1.2.RELEASE"/>
+<plugin id="com.vaadin"/>
+<plugin id="org.mortbay.jetty.util"/>
+<plugin id="org.eclipse.core.databinding.observable.source"/>
+<plugin id="org.eclipse.core.databinding.beans.source"/>
+<plugin id="org.eclipse.rap.ui.workbench.source"/>
+<plugin id="org.mortbay.jetty.server"/>
+<plugin id="org.eclipse.equinox.preferences.source"/>
+<plugin id="org.eclipse.rap.rwt.theme.classic.source"/>
+<plugin id="com.springsource.javassist"/>
+<plugin id="org.eclipse.core.expressions"/>
+<plugin id="org.eclipse.core.databinding.property.source"/>
+<plugin id="org.eclipse.core.contenttype"/>
+<plugin id="org.eclipse.rap.junit.runtime"/>
+<plugin id="org.springframework.context.support" version="3.1.2.RELEASE"/>
+<plugin id="org.eclipse.rap.ui.forms.source"/>
+<plugin id="org.apache.log4j"/>
+<plugin id="javax.servlet.source"/>
+<plugin id="com.springsource.slf4j.jcl"/>
+<plugin id="com.springsource.javax.persistence"/>
+<plugin id="com.springsource.org.apache.commons.beanutils"/>
+<plugin id="org.springframework.test" version="3.1.2.RELEASE"/>
+<plugin id="org.eclipse.equinox.preferences"/>
+<plugin id="org.springframework.asm"/>
+<plugin id="org.springframework.osgi.core"/>
+<plugin id="org.eclipse.equinox.app"/>
+<plugin id="org.eclipse.equinox.app.source"/>
+<plugin id="org.eclipse.core.runtime"/>
+<plugin id="org.springframework.osgi.extender"/>
 <plugin id="org.eclipse.rap.rwt.q07.source"/>
 <plugin id="org.eclipse.osgi"/>
+<plugin id="org.springframework.osgi.mock"/>
+<plugin id="org.eclipse.rap.design.example"/>
+<plugin id="org.eclipse.rap.rwt.source"/>
+<plugin id="org.eclipse.rap.ui.workbench"/>
+<plugin id="com.springsource.slf4j.api" version="1.6.1"/>
+<plugin id="org.springframework.instrument"/>
+<plugin id="org.eclipse.core.commands.source"/>
+<plugin id="org.springframework.aspects"/>
+<plugin id="org.eclipse.help"/>
+<plugin id="org.eclipse.rap.demo.databinding"/>
+<plugin id="org.eclipse.rap.junit.runtime.source"/>
+<plugin id="org.eclipse.rap.demo"/>
+<plugin id="org.springframework.jdbc" version="3.1.2.RELEASE"/>
+<plugin id="org.eclipse.rap.jface.databinding.source"/>
+<plugin id="org.eclipse.core.contenttype.source"/>
+<plugin id="org.springframework.osgi.log4j.osgi"/>
+<plugin id="org.eclipse.rap.junit"/>
+<plugin id="org.eclipse.jdt.junit.runtime"/>
+<plugin id="com.ibm.icu.base"/>
 <plugin id="com.springsource.slf4j.org.apache.commons.logging"/>
-<plugin id="org.eclipse.rap.jface.databinding"/>
-<plugin id="org.eclipse.core.databinding.observable.source"/>
-<plugin id="com.springsource.org.aopalliance"/>
-<plugin id="org.eclipse.rap.jface"/>
-<plugin id="com.springsource.org.apache.commons.lang"/>
-<plugin id="org.springframework.orm" version="3.1.2.RELEASE"/>
+<plugin id="org.eclipse.osgi.services"/>
+<plugin id="org.eclipse.equinox.servletbridge.extensionbundle"/>
+<plugin id="org.springframework.beans" version="3.1.2.RELEASE"/>
+<plugin id="org.eclipse.equinox.common"/>
+<plugin id="org.eclipse.core.databinding.observable"/>
+<plugin id="org.springframework.context" version="3.1.2.RELEASE"/>
+<plugin id="org.eclipse.core.expressions.source"/>
+<plugin id="com.springsource.org.apache.commons.collections"/>
+<plugin id="org.eclipse.core.jobs"/>
+<plugin id="org.eclipse.rap.rwt"/>
+<plugin id="org.eclipse.rap.ui"/>
+<plugin id="org.eclipse.equinox.registry"/>
+<plugin id="org.eclipse.jdt.junit.runtime.source"/>
 <plugin id="org.eclipse.rap.rwt.q07"/>
-<plugin id="org.springframework.aop" version="3.1.2.RELEASE"/>
-<plugin id="org.eclipse.rap.ui.cheatsheets.source"/>
-<plugin id="org.eclipse.core.databinding"/>
+<plugin id="org.junit" version="3.8.2.v3_8_2_v20100427-1100"/>
+<plugin id="com.springsource.slf4j.log4j"/>
+<plugin id="org.eclipse.rap.demo.source"/>
+<plugin id="org.eclipse.equinox.http.registry.source"/>
+<plugin id="org.mortbay.jetty.util.source"/>
+<plugin id="org.eclipse.help.source"/>
+<plugin id="org.eclipse.equinox.http.jetty"/>
+<plugin id="org.springframework.osgi.test"/>
+<plugin id="org.eclipse.equinox.servletbridge"/>
+<plugin id="org.springframework.core" version="3.1.2.RELEASE"/>
+<plugin id="org.eclipse.rap.jface.source"/>
+<plugin id="org.eclipse.core.runtime.source"/>
+<plugin id="org.eclipse.equinox.common.source"/>
+<plugin id="org.eclipse.equinox.http.servletbridge"/>
+<plugin id="org.eclipse.core.databinding.property"/>
 </includeBundles>
 </target>
