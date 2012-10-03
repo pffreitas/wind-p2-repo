@@ -46,12 +46,6 @@
          unpack="false"/>
 
    <plugin
-         id="wind-digester"
-         download-size="0"
-         install-size="0"
-         version="1.0.0"/>
-
-   <plugin
          id="com.springsource.org.apache.commons.lang"
          download-size="0"
          install-size="0"
